@@ -63,17 +63,3 @@ uv run brain-prime
 uv run ruff check .
 
 ```
-
----
-
-### 📺 Демонстрация игрового процесса (Asciinema)
-
-| Игра | Демонстрация |
-| :--- | :--- |
-| **Чётное число** | [![asciicast](https://asciinema.org/a/OEERfe9CmVlywMPw67wi5bEsA.svg)](https://asciinema.org/a/OEERfe9CmVlywMPw67wi5bEsA) |
-| **Калькулятор** | [![asciicast](https://asciinema.org/a/Vh30DugHrcRBE5ECFXyF2mbk4.svg)](https://asciinema.org/a/Vh30DugHrcRBE5ECFXyF2mbk4) |
-| **НОД** | [![asciicast](https://asciinema.org/a/WitTeP5tn6S5zlUWBwVVTHKg.svg)](https://asciinema.org/a/WitTeP5tn6S5zlUWBwVVTHKg) |
-| **Прогрессия** | [![asciicast](https://asciinema.org/a/zcFbHtLYoS6fR4hw1FumW72MK.svg)](https://asciinema.org/a/zcFbHtLYoS6fR4hw1FumW72MK) |
-| **Простое число** | [![asciicast](https://asciinema.org/a/2C4gn0Y1jgpkdfKB9DgMuoSM.svg)](https://asciinema.org/a/2C4gn0Y1jgpkdfKB9DgMuoSM) |
-
-```
